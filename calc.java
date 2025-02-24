@@ -4,3 +4,9 @@ add=n1+n2
 sub=n1-n2
 print(add,sub)
 
+
+multiplyyyy
+a*b
+division
+a%b
+
